@@ -36,7 +36,7 @@
 ## 4 Summarize breakdown of each step in the Dockerfile:
 ##  FROM python:3.11-slim
 ###  Purpose: Use a pre-built, lightweight Python image as the base for your container.
-# Use the official Python image from the Docker Hub
+Use the official Python image from the Docker Hub
 FROM python:3.11-slim
 
 ###  Set environment variables
